@@ -6,6 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            //use sinle word
             Console.WriteLine("Hello");
         }
     }
