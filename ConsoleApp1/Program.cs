@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            // cleaner -- print greeting
+            // cleaner -- print greeting!
             Console.WriteLine("Hello");
         }
     }
