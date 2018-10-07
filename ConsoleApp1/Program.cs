@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            ///should i add comments?
+            ///let me seee....
             Console.WriteLine("Hello");
         }
     }
